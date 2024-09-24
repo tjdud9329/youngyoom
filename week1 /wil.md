@@ -11,7 +11,7 @@
 1. 인터넷 : 컴퓨터로 연결하여 TCP/IP라는 통신 프로토콜을 이용해 정보를 주고받는 **글로벌 컴퓨터 네트워크 시스템**
 2. 프로토콜 : 컴퓨터 내부, 또는 사이에서 데이터 교환 방식을 정의하는 규칙체계. 기기간 통신은 교환되는 데이터 형식에 대한 상호 합의가 요구됨 > 이런 형식을 정의하는 규칙의 집합
 3. **HTML** = HyperText Mark-up Language
-4. **URL** => **http**(scheme)://**www.example.com**(domain Name):**80**(part)[authority]**/path/to/myfile.html**(path to the file)**?key1=value&key2=value2**(parameters)
+4. **URL** => **http**(scheme)://**www.example.com** (domain Name):**80**(part)[authority]**/path/to/myfile.html**(path to the file)**?key1=value&key2=value2**(parameters)
 5. **HTTP** = HyerText Transfer Protocol => clinet : request <-> server : response
 6. start-line(시작라인) | header(헤더) | empty-line(공백 라인) | message-body(바디)
 7. 웹 개발 => 웹 서버
